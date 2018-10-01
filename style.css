@@ -1,0 +1,67 @@
+.navbar-brand {
+    font-family: 'Galada';
+    font-size: 26px;
+    padding-top: 10px;
+    margin-left: 8px;
+    display:inline-block;
+}
+h4 {
+    font-size: 30px;
+    padding-bottom: 5px; 
+    display:inline-block;
+}
+body {
+    background-color: white;
+}
+header{
+    padding: 1%;
+}
+#navtabs2 {
+    background-color: #BDBDBD;
+}
+div.post{
+    background: white;
+    margin-top: 0px
+}
+.container{
+    width: 630px;
+    margin: auto;
+}
+img{
+    width: 600px;
+}
+div.post .post-header div:first-child{
+    display: inline-block;
+    width: 80%;
+}
+div.post .post-header div:last-child{
+    display: inline-block;
+    width: 20%;
+    padding: 10px;
+    text-align: right;
+    color:gray;
+}
+div.post h2, div.post p{
+    padding: 10px;
+}
+.form-control { 
+    width: 97%;
+    margin: 8px;
+}
+.modal-header {
+  border-bottom: 1px solid white;
+}
+textarea{
+    width: 500px;
+    border: none;
+    resize: none;
+    color: gray;
+}
+div.post .post-footer{
+    display: inline-block;
+    padding: 10px;
+}
+th {
+    padding: 10px;
+    text-align: left;
+}
